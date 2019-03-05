@@ -1,2 +1,2 @@
 # Assignments
-All the assignments trough my studentship
+All assignments trough my studentship
