@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.14" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="false" dependencies="false" nesting-relationships="true" 
+  router="FAN">  
+  <class id="1" language="java" name="Desktop" project="Assignment2" file="/Assignment2/src/Desktop.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="243" width="137" x="1631" y="1656"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="Technican" project="Assignment2" file="/Assignment2/src/Technican.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="227" x="165" y="1337"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="Main" project="Assignment2" file="/Assignment2/src/Main.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="873" width="209" x="74" y="-147"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="CdDvd" project="Assignment2" file="/Assignment2/src/CdDvd.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="261" width="137" x="913" y="1337"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="Computer" project="Assignment2" file="/Assignment2/src/Computer.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="360" x="1808" y="1337"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="Employee" project="Assignment2" file="/Assignment2/src/Employee.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="204" x="432" y="766"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="SmartPhone" project="Assignment2" file="/Assignment2/src/SmartPhone.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="137" x="2208" y="1337"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="Person" project="Assignment2" file="/Assignment2/src/Person.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="207" width="269" x="809" y="-147"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="OfficeSupplies" project="Assignment2" file="/Assignment2/src/OfficeSupplies.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="199" x="1090" y="766"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="SkinCare" project="Assignment2" file="/Assignment2/src/SkinCare.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="147" x="1267" y="1337"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="Tablet" project="Assignment2" file="/Assignment2/src/Tablet.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="243" width="137" x="1808" y="1656"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="Tv" project="Assignment2" file="/Assignment2/src/Tv.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="243" width="137" x="2385" y="1337"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="Perfume" project="Assignment2" file="/Assignment2/src/Perfume.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="137" x="1454" y="1337"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="Cosmetic" project="Assignment2" file="/Assignment2/src/Cosmetic.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="265" x="1454" y="766"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="Order" project="Assignment2" file="/Assignment2/src/Order.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="171" width="204" x="323" y="-147"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="Book" project="Assignment2" file="/Assignment2/src/Book.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="279" width="137" x="1090" y="1337"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="Customer" project="Assignment2" file="/Assignment2/src/Customer.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="531" width="241" x="809" y="766"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="Admin" project="Assignment2" file="/Assignment2/src/Admin.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="243" width="441" x="432" y="1337"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="Laptop" project="Assignment2" file="/Assignment2/src/Laptop.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="243" width="137" x="1985" y="1656"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="HairCare" project="Assignment2" file="/Assignment2/src/HairCare.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="137" x="1631" y="1337"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="Item" project="Assignment2" file="/Assignment2/src/Item.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="297" width="137" x="1454" y="-147"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="Campaign" project="Assignment2" file="/Assignment2/src/Campaign.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="202" x="567" y="-147"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="Electronic" project="Assignment2" file="/Assignment2/src/Electronic.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="237" x="1963" y="766"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="24">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <generalization id="25">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <generalization id="26">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="23"/>  
+  </generalization>  
+  <generalization id="27">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <generalization id="28">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <generalization id="29">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <generalization id="30">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="23"/>  
+  </generalization>  
+  <generalization id="31">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <generalization id="32">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <generalization id="33">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="34">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <generalization id="35">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="36">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="37">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <generalization id="38">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <generalization id="39">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <generalization id="40">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="23"/>  
+  </generalization>  
+  <generalization id="41">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
