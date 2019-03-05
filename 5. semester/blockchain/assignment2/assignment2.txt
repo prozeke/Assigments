@@ -1,0 +1,19 @@
+1)
+https://investoon.com/mining_pools/eth
+1. Sparkpool with 44.89 TH/s
+2. Ethermine with 22 TH/s
+3. F2pool with 20.5 TH/s
+4. Miningpoolhub with 7.78 TH/s
+5. NanoPool with 7.72 TH/s
+
+2)
+ I think the most important feature of a wallet is safety. In addition to that, a wallet should be easy to use and maybe have some recovery features. Considerin these features, I think the best wallet type to use is a hardware wallet. It is safe and not so hard to use. In addition to that, some hardwire wallets such as ledger nano s has also have a recovery system in case that piece of hardwire is stolen. Therefore, I think the best wallet type to use is a hardware wallet.
+
+3) 
+ SPV stands for simplified payment verification. As name implies, it is a mechanism for verifying that a transaction is indeed, in the chain.
+ In order to check a transaction, one needs to be sure that his/her transaction is in the biggest chain of the blockchain. Afterwards, he/she needs to check the entire chain and find his/her transaction and verfy that it is actually there. The aim of the SPV is to solve the latter problem.
+ In a block, in addition to every transaction, also a merkle root is kept. Using this merkle root, one can find a merkle tree that corresponds to that root. After that, one needs to find whether the hash of his/her transaction is in the merkle tree or not. If it is, then he/she can be confident that his/her transaction is in the chain which implies that it really happened. This method is called simplified payment verification(SPV).
+ 
+4)
+ The gas price per transaction or contract is set up to deal with the Turing Complete nature of Ethereum and its EVM (Ethereum Virtual Machine Code) – the idea being to limit infinite loops. Each assembly operation in EVM needs some amounts of gas. Transaction owner provides a gas price which he/she is willing to pay. If transaction or contract can't be computed with given gas price, then the money is gone. Otherwise, miner takes the gas price with respect to how much gas the code requiered and give back the change to the transaction owner.
+ Gas priced is not a fixed value because the actual value of ethereum is volatile. The gas price need to have the flexibility to change with the actual value of the ethereum. 

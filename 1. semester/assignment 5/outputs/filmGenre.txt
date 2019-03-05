@@ -1,0 +1,5 @@
+Guess Genres of Movie based on Movies
+STAR WARS: EPISODE I--THE PHANTOM MENACE : Drama Action Mystery War Comedy Adventure Documentary Thriller Romance Sci-Fi Crime Film-Noir 
+THE GAME : Drama Action Mystery War Comedy Documentary Thriller Romance Sci-Fi Crime Film-Noir 
+A.I. ARTIFICIAL INTELLIGENCE : Drama Action Mystery War Comedy Adventure Documentary Thriller Romance Sci-Fi Crime Film-Noir 
+SERENDIPITY : Drama Action War Comedy Thriller Romance Sci-Fi Film-Noir 

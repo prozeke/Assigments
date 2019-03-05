@@ -1,0 +1,4 @@
+Data about Binarian planet:
+Distance from the Earth: 3.4058520000000003e+14 km
+Planet temperature: 25 degrees Celsius
+Orbital speed: 95km/s

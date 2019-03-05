@@ -1,0 +1,36 @@
+typedef{
+	stack interrupts
+	stack history
+	queue processes
+}machine
+
+main(){
+
+	numCommandLine = getint(input2)
+	numMachineLine = getint(input1)
+
+	machine machines[numMachineLine]
+	for(i = 0; i < numMachineLine; i++)
+		one = getint(input1)
+		two = getint(input1)
+		createMachine(machines[i],one,two)
+		machines[i].histrory.size = numCommandLine
+
+	for(i = 0; i < numCommandLine; i++)
+		one = getchar(input2)
+		two = getint(input2)
+		three = getchar(input2)
+		if(one == 'A')
+			addProcess(machines + two - 1, three)
+		else if(one == 'I')
+			addInterrupt(machines + two - 1, three)
+		else if(one == 'S')
+			sendToServer(machines + two  -1, machines + numMachineLine - 1)
+		else if(one == 'O')
+			operate(machines + numMachineLine - 1)
+
+	for(machine in machines)
+		write(output, machine.history.list)
+	
+	return	0
+}

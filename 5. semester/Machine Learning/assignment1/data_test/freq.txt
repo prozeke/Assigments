@@ -1,0 +1,380 @@
+Country:	
+Frequensy:	1981
+-----------------------------------
+Country:	uruguay
+Frequensy:	3
+-----------------------------------
+Country:	oman
+Frequensy:	1
+-----------------------------------
+Country:	lleida
+Frequensy:	11
+-----------------------------------
+Country:	euskal herria
+Frequensy:	1
+-----------------------------------
+Country:	morocco
+Frequensy:	1
+-----------------------------------
+Country:	scotland
+Frequensy:	3
+-----------------------------------
+Country:	south africa
+Frequensy:	12
+-----------------------------------
+Country:	arizona
+Frequensy:	2
+-----------------------------------
+Country:	andorra
+Frequensy:	31
+-----------------------------------
+Country:	cyprus
+Frequensy:	6
+-----------------------------------
+Country:	belgium
+Frequensy:	25
+-----------------------------------
+Country:	austria
+Frequensy:	382
+-----------------------------------
+Country:	norway
+Frequensy:	6
+-----------------------------------
+Country:	spain
+Frequensy:	3856
+-----------------------------------
+Country:	basque country
+Frequensy:	1
+-----------------------------------
+Country:	ireland
+Frequensy:	150
+-----------------------------------
+Country:	maharashtra
+Frequensy:	1
+-----------------------------------
+Country:	new york
+Frequensy:	2
+-----------------------------------
+Country:	costa rica
+Frequensy:	5
+-----------------------------------
+Country:	nederlands
+Frequensy:	1
+-----------------------------------
+Country:	india
+Frequensy:	75
+-----------------------------------
+Country:	tdzimi
+Frequensy:	1
+-----------------------------------
+Country:	u.s. virgin islands
+Frequensy:	2
+-----------------------------------
+Country:	ghana
+Frequensy:	1
+-----------------------------------
+Country:	texas
+Frequensy:	2
+-----------------------------------
+Country:	portugal
+Frequensy:	992
+-----------------------------------
+Country:	trinidad and tobago
+Frequensy:	3
+-----------------------------------
+Country:	tanzania
+Frequensy:	1
+-----------------------------------
+Country:	pakistan
+Frequensy:	1
+-----------------------------------
+Country:	iceland
+Frequensy:	14
+-----------------------------------
+Country:	argentina
+Frequensy:	28
+-----------------------------------
+Country:	iran
+Frequensy:	89
+-----------------------------------
+Country:	catalunya
+Frequensy:	24
+-----------------------------------
+Country:	taiwan
+Frequensy:	171
+-----------------------------------
+Country:	space
+Frequensy:	1
+-----------------------------------
+Country:	brunei
+Frequensy:	2
+-----------------------------------
+Country:	czech republic
+Frequensy:	4
+-----------------------------------
+Country:	arkansas
+Frequensy:	1
+-----------------------------------
+Country:	cayman islands
+Frequensy:	1
+-----------------------------------
+Country:	hong kong
+Frequensy:	11
+-----------------------------------
+Country:	slovakia
+Frequensy:	8
+-----------------------------------
+Country:	united kingdom
+Frequensy:	1987
+-----------------------------------
+Country:	slovenia
+Frequensy:	13
+-----------------------------------
+Country:	qatar
+Frequensy:	110
+-----------------------------------
+Country:	colombia
+Frequensy:	3
+-----------------------------------
+Country:	bahamas
+Frequensy:	5
+-----------------------------------
+Country:	denmark
+Frequensy:	42
+-----------------------------------
+Country:	sweden
+Frequensy:	120
+-----------------------------------
+Country:	calabria
+Frequensy:	1
+-----------------------------------
+Country:	netherlands
+Frequensy:	433
+-----------------------------------
+Country:	canada
+Frequensy:	5359
+-----------------------------------
+Country:	west yorkshire
+Frequensy:	31
+-----------------------------------
+Country:	v9v 1h4
+Frequensy:	1
+-----------------------------------
+Country:	alberta
+Frequensy:	1
+-----------------------------------
+Country:	monaco
+Frequensy:	5
+-----------------------------------
+Country:	philippines
+Frequensy:	108
+-----------------------------------
+Country:	syria
+Frequensy:	1
+-----------------------------------
+Country:	luxembourg
+Frequensy:	3
+-----------------------------------
+Country:	yugoslavia
+Frequensy:	1
+-----------------------------------
+Country:	bolivia
+Frequensy:	1
+-----------------------------------
+Country:	usa
+Frequensy:	59144
+-----------------------------------
+Country:	michigan
+Frequensy:	7
+-----------------------------------
+Country:	quit
+Frequensy:	2
+-----------------------------------
+Country:	queensland
+Frequensy:	2
+-----------------------------------
+Country:	mexico
+Frequensy:	24
+-----------------------------------
+Country:	china
+Frequensy:	18
+-----------------------------------
+Country:	nigeria
+Frequensy:	1
+-----------------------------------
+Country:	brazil
+Frequensy:	109
+-----------------------------------
+Country:	central otago
+Frequensy:	1
+-----------------------------------
+Country:	dc
+Frequensy:	3
+-----------------------------------
+Country:	germany
+Frequensy:	3197
+-----------------------------------
+Country:	greece
+Frequensy:	128
+-----------------------------------
+Country:	british columbia
+Frequensy:	4
+-----------------------------------
+Country:	jersey
+Frequensy:	1
+-----------------------------------
+Country:	palau
+Frequensy:	1
+-----------------------------------
+Country:	victoria
+Frequensy:	2
+-----------------------------------
+Country:	maine
+Frequensy:	1
+-----------------------------------
+Country:	malta
+Frequensy:	8
+-----------------------------------
+Country:	kazakhstan
+Frequensy:	1
+-----------------------------------
+Country:	moldova
+Frequensy:	10
+-----------------------------------
+Country:	bayern
+Frequensy:	1
+-----------------------------------
+Country:	australia
+Frequensy:	1653
+-----------------------------------
+Country:	italy
+Frequensy:	1417
+-----------------------------------
+Country:	poland
+Frequensy:	14
+-----------------------------------
+Country:	lombardia
+Frequensy:	3
+-----------------------------------
+Country:	croatia
+Frequensy:	5
+-----------------------------------
+Country:	saudi arabia
+Frequensy:	3
+-----------------------------------
+Country:	nottinghamshire
+Frequensy:	2
+-----------------------------------
+Country:	samoa
+Frequensy:	2
+-----------------------------------
+Country:	ethiopia
+Frequensy:	1
+-----------------------------------
+Country:	ontario
+Frequensy:	1
+-----------------------------------
+Country:	chile
+Frequensy:	12
+-----------------------------------
+Country:	bermuda
+Frequensy:	5
+-----------------------------------
+Country:	csa
+Frequensy:	1
+-----------------------------------
+Country:	españa
+Frequensy:	6
+-----------------------------------
+Country:	u.s.a.
+Frequensy:	31
+-----------------------------------
+Country:	turkey
+Frequensy:	16
+-----------------------------------
+Country:	switzerland
+Frequensy:	319
+-----------------------------------
+Country:	belize
+Frequensy:	1
+-----------------------------------
+Country:	latvia
+Frequensy:	5
+-----------------------------------
+Country:	bangladesh
+Frequensy:	1
+-----------------------------------
+Country:	hungary
+Frequensy:	1
+-----------------------------------
+Country:	france
+Frequensy:	1650
+-----------------------------------
+Country:	rwanda
+Frequensy:	1
+-----------------------------------
+Country:	indonesia
+Frequensy:	1
+-----------------------------------
+Country:	israel
+Frequensy:	5
+-----------------------------------
+Country:	u.s. of a.
+Frequensy:	1
+-----------------------------------
+Country:	alderney
+Frequensy:	4
+-----------------------------------
+Country:	romania
+Frequensy:	309
+-----------------------------------
+Country:	japan
+Frequensy:	165
+-----------------------------------
+Country:	n/a
+Frequensy:	13606
+-----------------------------------
+Country:	finland
+Frequensy:	163
+-----------------------------------
+Country:	hernando
+Frequensy:	1
+-----------------------------------
+Country:	albania
+Frequensy:	1
+-----------------------------------
+Country:	guatemala
+Frequensy:	2
+-----------------------------------
+Country:	new zealand
+Frequensy:	293
+-----------------------------------
+Country:	guernsey
+Frequensy:	3
+-----------------------------------
+Country:	thailand
+Frequensy:	1
+-----------------------------------
+Country:	lk ammerland
+Frequensy:	1
+-----------------------------------
+Country:	nz
+Frequensy:	1
+-----------------------------------
+Country:	england
+Frequensy:	241
+-----------------------------------
+Country:	south korea
+Frequensy:	4
+-----------------------------------
+Country:	sudan
+Frequensy:	1
+-----------------------------------
+Country:	malaysia
+Frequensy:	1208
+-----------------------------------
+Country:	singapore
+Frequensy:	36
+-----------------------------------
+sum = 100000
+usa + canada = 64503

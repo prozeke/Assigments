@@ -1,0 +1,14 @@
+1)	It does not know if an adress is included in a wallet. Actually, no adress is included in a wallet. They are just there, some are included to the blockchain, some not. However, it can check if an adress is valid or not. It can check it with the help of checksum digits that each bitcoin adress has. Checksum digits are used to check if an adress is typed correctly or not. This kind of control prevents mistyping errors such as sending money to a wrong adress in a transaction.
+
+2)
+	a) The timestamp is used primarily for establishing the difficulty. Without a timestamp, new nodes would not be able to determine the correct difficulty to be used for each 2016 block period as they wouldn't know how long it took to mine those blocks. So that everyone calculates the difficulty correctly, the block timestamps are used instead of real time. 
+	
+	b) This of course means that the difficulty can be manipulated by miners messing with the timestamp, but nodes do still check them against real time and will ignore blocks that are outside of a certain range of times based on its own internal clock time.
+	
+	
+3) It is said that proof of work is just throwing away energy. But it protects previosly created blocks from changing by an attacker. With this approach, if an attacker tries to change a previosly created block, he/she needs to change all the blocks after it. Proof of work approach makes it simply too hard to change all the blocks after a block and creating an alternative chain. Because it only depends on chance and in that case, attacker shall not only change blocks after it, he/she also needs to change all the blocks that created afterwards and come with the last block so that community accepts its alternative chain. Since all the community is trying to come up with new blocks, one person cannot overrun others. To sum up, it is actually the core reason that blockchain is inchangable and trustable. To conclude, all this work is for having an inchangable blockchain which is actually quite succesfull in that objective. However, it is also gives advantage to miners who have better hardware since this miners can try more possibilities than others.  
+
+	
+4) In https://www.blockchain.com/ a block can be searched with its id. If we check the hash of the block, we can see all the transactions inside it.
+ The first transaction that this site show is the newly generated money which goes to miner. The public adress of that miner is:
+1Nh7uHdvY6fNwtQtM1G5EZAFPLC33B59rB

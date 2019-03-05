@@ -1,0 +1,5 @@
+Guess Genres of Movie based on Movies
+THE GAME : Film-Noir Romance Drama Comedy Mystery War Crime Thriller Sci-Fi Adventure Documentary Action 
+SERENDIPITY : Film-Noir Romance Drama Comedy War Thriller Sci-Fi Action 
+A.I. ARTIFICIAL INTELLIGENCE : Film-Noir Romance Drama Comedy Mystery War Crime Thriller Sci-Fi Adventure Documentary Action 
+STAR WARS: EPISODE I--THE PHANTOM MENACE : Film-Noir Romance Drama Comedy Mystery War Crime Thriller Sci-Fi Adventure Documentary Action 

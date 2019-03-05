@@ -1,0 +1,82 @@
+38905
+k = 1
+number of predictions = 8843
+mae--->	1.725884880696596
+mse--->	5.172452787515549
+k = 2
+number of predictions = 5015
+mae--->	1.5464639968589626
+mse--->	3.970285515034325
+k = 3
+number of predictions = 3384
+mae--->	1.446007578193884
+mse--->	3.432627610048195
+k = 4
+number of predictions = 2494
+mae--->	1.3925833054330983
+mse--->	3.1946179294228587
+k = 5
+number of predictions = 1966
+mae--->	1.373600681901312
+mse--->	3.131863443343349
+k = 6
+number of predictions = 1568
+mae--->	1.3412266380830262
+mse--->	2.9288786017513466
+k = 7
+number of predictions = 1299
+mae--->	1.3183514455993757
+mse--->	2.832744196175124
+k = 8
+number of predictions = 1101
+mae--->	1.2937218010434044
+mse--->	2.7040414114058073
+k = 9
+number of predictions = 905
+mae--->	1.2451640882972574
+mse--->	2.4711361548997917
+k = 10
+number of predictions = 775
+mae--->	1.2301505859774042
+mse--->	2.4140376657826494
+k = 11
+number of predictions = 673
+mae--->	1.2102321445843258
+mse--->	2.3524775736562122
+k = 12
+number of predictions = 592
+mae--->	1.1646262652006014
+mse--->	2.2050257346107784
+k = 13
+number of predictions = 512
+mae--->	1.1593228972604044
+mse--->	2.204728969889604
+k = 14
+number of predictions = 430
+mae--->	1.1373665903513135
+mse--->	2.09100323689003
+k = 15
+number of predictions = 380
+mae--->	1.1289377334715878
+mse--->	2.0653436673473475
+k = 16
+number of predictions = 337
+mae--->	1.1261999736579733
+mse--->	2.0191468027212496
+k = 17
+number of predictions = 298
+mae--->	1.10374001220298
+mse--->	1.965925594184706
+k = 18
+number of predictions = 260
+mae--->	1.0733390298115295
+mse--->	1.821788090951914
+k = 19
+number of predictions = 232
+mae--->	1.0688312718638162
+mse--->	1.8017311298158285
+k = 20
+number of predictions = 203
+mae--->	1.0391972174943436
+mse--->	1.7145798628007973
+total 247.1831340789795 second passed
